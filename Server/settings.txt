@@ -1,4 +1,6 @@
 Hour:10
 Minute:20
 SnoozeTime:5
-SoundPath:"C:\Test.wav"
+SoundPath:"www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+DarkMode:0
+ScreenOff:0
