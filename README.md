@@ -18,4 +18,4 @@
  - Pin zu Motor -> 270Ω
  - Pin zu Button -> 10kΩ
 
-![Finished Circuit](https://github.com/BertilBraun/Arduino-Alarm-Clock/tree/main/Resources/IMG_20201020_220151.jpg "Finished Circuit"){: height="200px"}
+![Finished Circuit](https://github.com/BertilBraun/Arduino-Alarm-Clock/tree/main/Resources/IMG_20201020_220151.jpg "Finished Circuit")
